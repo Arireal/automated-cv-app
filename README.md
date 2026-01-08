@@ -4,6 +4,7 @@ CV Builder is a Streamlit-based application designed to help job seekers quickly
 
 Instead of relying on AI to invent or rewrite experiences, this app reorganizes and selects pre-existing summaries, skills, projects, and experiences based on a pasted job description.
 
+<img width="680" height="1000" alt="Untitled design(6)" src="https://github.com/user-attachments/assets/f49c11e1-d3a3-4617-871a-4d8cbb738821" />
 
 
 ## Key Features
