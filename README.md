@@ -4,7 +4,9 @@ CV Builder is a Streamlit-based application designed to help job seekers quickly
 
 Instead of relying on AI to invent or rewrite experiences, this app reorganizes and selects pre-existing summaries, skills, projects, and experiences based on a pasted job description.
 
-## ✨ Key Features
+
+
+## Key Features
 
 - Generate CVs optimized for specific job descriptions
 - Content Library to manage:
@@ -19,7 +21,7 @@ Instead of relying on AI to invent or rewrite experiences, this app reorganizes 
 - Export final CV as PDF
 - Single-page app navigation with persistent top menu
 
-## 🧠 Philosophy
+##  Philosophy
 
 This project focuses on:
 - **Honesty** (no fabricated experience)
@@ -29,7 +31,7 @@ This project focuses on:
 
 AI may be added later, but the MVP works without it.
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python 3.10+
 - Streamlit
@@ -37,7 +39,7 @@ AI may be added later, but the MVP works without it.
 - Local state management (session_state)
 - Git for version control
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 .
